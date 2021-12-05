@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<articles
+        xmlns="https://www.w3schools.com"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.w3schools.com articles.xsd">
+    <article>
+        <code>GR1</code>
+        <name>Green tea</name>
+        <price>3.11</price>
+        <rules>
+            <rule>OneGetTwo</rule>
+        </rules>
+    </article>
+    <article>
+        <code>SR1</code>
+        <name>Strawberries</name>
+        <price>5.00</price>
+        <rules>
+            <rule>ThreeFor0_9Price</rule>
+        </rules>
+    </article>
+    <article>
+        <code>CF1</code>
+        <name>Coffee</name>
+        <price>11.23</price>
+        <rules>
+            <rule>ThreeForTwoThirds</rule>
+        </rules>
+    </article>
+</articles>
